@@ -1,0 +1,15 @@
+{
+  "name": "rxjs-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/fs-extra": "^5.0.4",
+    "@types/node": "^10.12.24",
+    "@types/terminal-image": "^0.1.0",
+    "fs-extra": "^7.0.1",
+    "moment": "^2.24.0",
+    "rxjs": "^6.4.0",
+    "terminal-image": "^0.1.2"
+  }
+}
